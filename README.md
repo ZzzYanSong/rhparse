@@ -42,4 +42,4 @@ print(raw_response)  # 输出原始 HTTP 响应字符串
 - 简洁的静态方法调用，无需实例化
 
 ## 许可证
-MIT
+[MIT](/LICENSE)
